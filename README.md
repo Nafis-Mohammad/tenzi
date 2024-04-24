@@ -6,6 +6,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Match all the dice to be of the same value.
 
 ## Some Screenshots
+![alt text](image.png) \
+Completed game \
+\
+
+![alt text](image-1.png) \
+Initial state of the game \
+\
+
+![alt text](image-2.png)
 
 
 ## Available Scripts
